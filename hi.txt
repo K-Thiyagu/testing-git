@@ -1,7 +1,3 @@
 This is Dummy
 Text
-
-Pulled text
-
-Test from VS Codes
-This from coding in VS
+This is try to added text to sever with help of git.
