@@ -1,3 +1,9 @@
-This is Dummy
-Text
-This is try to added text to sever with help of git.
+Notes For Guide Lines
+
+=> git init---->In,this folder to attack all files.
+
+=>git status---->show current files.
+
+=> git commit-m "commit message".
+
+=>git log
