@@ -4,6 +4,15 @@ Notes For Guide Lines
 
 =>git status---->show current files.
 
-=> git commit-m "commit message".
+=> git commit-m "commit message"----->Message for commit.
 
-=>git log
+=>git log -----> Show Commit History.
+
+SEVER TO LOCAL --> COPY OF THE FILE
+
+=>  git clone sever high"____url____".
+
+=> git push---> file from local to sever.
+
+=> git pull-----> file from sever to local.
+
